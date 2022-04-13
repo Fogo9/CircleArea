@@ -18,6 +18,7 @@ public class Circlearea{
         System.out.print("Enter The Central Angle : ");
 
         a = input.nextInt();
+        
 
         double area = pi * r * r;
 
