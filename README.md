@@ -2,7 +2,7 @@
 
 # Information
 
-* **Program to find the area of ​​a circle segment with radius r and measure a of the central angle.**
+* **Program to find the area of a circle segment with radius r and measure a of the central angle.**
 
 # Technologies Used
 
@@ -14,11 +14,11 @@
 
 * The pi value is 3.14 and is defined with double.
 
-* The radius and center angle values ​​of the circle are taken from the user.
+* The radius and center angle values of the circle are taken from the user.
 
 * Area, perimeter and center area formulas are defined.
 
-* The area of ​​the circle segment is found by entering the area of ​​the circle and the center angle values.
+* The area of the circle segment is found by entering the area of the circle and the center angle values.
 
 <br />
 
