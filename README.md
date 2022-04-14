@@ -38,29 +38,29 @@
 
          Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter The Radius of The Circle : ");
+         System.out.print("Enter The Radius of The Circle : ");
 
-        r = input.nextInt();
+         r = input.nextInt();
 
-        System.out.print("Enter The Central Angle : ");
+         System.out.print("Enter The Central Angle : ");
 
-        a = input.nextInt();
+         a = input.nextInt();
 
 ```
 ```Java
 
-        double area = pi * r * r;
+         double area = pi * r * r;
 
-        double circumference = 2 * pi * r;
+         double circumference = 2 * pi * r;
 
-        double centralArea = (pi * (r*r) * a) / 360;
+         double centralArea = (pi * (r*r) * a) / 360;
 
 
-        System.out.println("Area of The Circle :" + area);
+         System.out.println("Area of The Circle :" + area);
 
-        System.out.println("Circumference of The Circle :" + circumference);
+         System.out.println("Circumference of The Circle :" + circumference);
 
-        System.out.println("Area of The Circle Segment :" + centralArea);
+         System.out.println("Area of The Circle Segment :" + centralArea);
 
 ```
 
