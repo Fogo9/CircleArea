@@ -56,11 +56,11 @@
          double centralArea = (pi * (r*r) * a) / 360;
 
 
-         System.out.println("Area of The Circle :" + area);
+         System.out.println("Area of The Circle : " + area);
 
-         System.out.println("Circumference of The Circle :" + circumference);
+         System.out.println("Circumference of The Circle : " + circumference);
 
-         System.out.println("Area of The Circle Segment :" + centralArea);
+         System.out.println("Area of The Circle Segment : " + centralArea);
 
 ```
 
