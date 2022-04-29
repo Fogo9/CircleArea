@@ -20,8 +20,6 @@
 
 * The area of the circle segment is found by entering the area of the circle and the center angle values.
 
-<br />
-
 # Codes
 
 ```Java
