@@ -1,14 +1,14 @@
 # **CİRCLE AREA**
 
-# Information
+## Information
 
 * **Program to find the area of a circle segment with radius r and measure a of the central angle.**
 
-# Technologies Used
+## Technologies Used
 
 * **JAVA**
 
-# Contents
+## Contents
 
 * The variables **r** and **a** is defined with int.
 
