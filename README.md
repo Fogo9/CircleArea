@@ -1,14 +1,14 @@
 # **CİRCLE AREA**
 
-## Information
+## INFORMATION
 
 * **Program to find the area of a circle segment with radius r and measure a of the central angle.**
 
-## Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-## Contents
+## CONTENTS
 
 * The variables **r** and **a** is defined with int.
 
@@ -20,7 +20,7 @@
 
 * The area of the circle segment is found by entering the area of the circle and the center angle values.
 
-# Codes
+## CODES
 
 ```Java
 
@@ -75,13 +75,13 @@
 ```
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/CircleArea.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
